@@ -1,0 +1,6 @@
+@AppOdontologia_HostAddress = http://localhost:5111
+
+GET {{AppOdontologia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
